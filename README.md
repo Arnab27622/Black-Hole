@@ -24,6 +24,6 @@ A stunning, real-time black hole simulation built using **Three.js**, complete w
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Black-Hole.git
+git clone https://github.com/Arnab27622/Black-Hole.git
 cd Black-Hole
 
