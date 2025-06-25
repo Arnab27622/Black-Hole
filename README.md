@@ -19,13 +19,11 @@ A stunning, real-time black hole simulation built using **Three.js**, complete w
 |:-------------:|:-------------:|
 | ![Inferno](./screenshots/inferno.png) | ![Glacial](./screenshots/nebula.png) |
 
-*(Make sure to add screenshots in a `/screenshots` folder)*
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/black-hole-visualization.git
-cd black-hole-visualization
+git clone https://github.com/your-username/Black-Hole.git
+cd Black-Hole
 
