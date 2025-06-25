@@ -15,7 +15,7 @@ A stunning, real-time black hole simulation built using **Three.js**, complete w
 
 ## 🖼️ Screenshots
 
-| Inferno Theme | Glacial Theme |
+| Inferno Theme | Nebula Theme |
 |:-------------:|:-------------:|
 | ![Inferno](./screenshots/inferno.png) | ![Glacial](./screenshots/nebula.png) |
 
