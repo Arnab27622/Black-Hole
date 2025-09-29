@@ -21,7 +21,7 @@ A stunning, real-time black hole simulation built using **Three.js**, complete w
 
 ## 🖥️ Live Demo
 
-> 📦 *[Lantern & Koi Fish](https://arnab27622.github.io/Lantern-And-Koi-Fish/)*
+> 📦 *[Black Hole](https://arnab27622.github.io/Black-Hole/)*
 
 ---
 
