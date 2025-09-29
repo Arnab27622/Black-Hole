@@ -19,6 +19,12 @@ A stunning, real-time black hole simulation built using **Three.js**, complete w
 |:-------------:|:-------------:|
 | ![Inferno](./screenshots/inferno.png) | ![Glacial](./screenshots/nebula.png) |
 
+## 🖥️ Live Demo
+
+> 📦 *[Lantern & Koi Fish](https://arnab27622.github.io/Lantern-And-Koi-Fish/)*
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
